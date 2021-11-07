@@ -1,4 +1,5 @@
 function add(x, y) {
+    //doc added
     return x + y;
 }
 
