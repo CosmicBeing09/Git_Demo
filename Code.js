@@ -8,6 +8,7 @@ function substract(x, y) {
 }
 
 function multiply(x, y) {
+    return x * y;
 }
 
 function division(x, y) {
